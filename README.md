@@ -5,4 +5,4 @@ dataset.ttl contains the sample dataset used to evaluate the competency question
 
 query_results.txt contains the competency questions written as SPARQL queries and their results for sample dataset (dataset.ttl)  
 
-Visualisations of constraint trees were created using a combination of SPARQL queries and graph traversal using printConstraintTree method in https://github.com/FoodSentimentObservatory/PoPE-ExampleQueries/blob/master/src/uoa/pope/example/main/Utils.java (line 178).
+Visualisations of constraint trees were created using a combination of SPARQL queries and software-based graph traversal method printConstraintTree method described in https://github.com/FoodSentimentObservatory/PoPE-ExampleQueries/blob/master/src/uoa/pope/example/main/Utils.java (line 178).
